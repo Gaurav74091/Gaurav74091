@@ -1,3 +1,4 @@
+<img scr="![Web Data](https://github.com/user-attachments/assets/d2ce3b4a-783b-45af-b995-857468265214)"
 # 👋 Hi, I’m Gaurav
 
 - 👀 I’m interested in Data Science, Analytics, and Machine Learning
